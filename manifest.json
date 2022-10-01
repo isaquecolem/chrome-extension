@@ -1,0 +1,10 @@
+{
+    "name": "First Extension",
+    "description": "building an extension to learn how it works",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "index.html"
+    }
+}
