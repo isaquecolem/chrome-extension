@@ -4,9 +4,10 @@ One of my objectives by doing this extension is to use it as a multitool extensi
 
 ##
 
-### Actual Version: 1.0
+### Actual Version: 1.1
 #### Funcionalities at this point:
 - Replace all the images in the current window by the image in the link inputed in the form that opens when you launch the extension.
+- Color picker.
 
 ### Coming soon...
-- Color picker.
+
